@@ -1,3 +1,3 @@
 # Kittapat_test
 
-This is Git for team session.
+This is Git for team session cs100.
